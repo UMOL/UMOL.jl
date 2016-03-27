@@ -1,0 +1,15 @@
+[submodule "deps/MolecularPDB"]
+	path = deps/MolecularPDB
+	url = https://github.com/UMOL/MolecularPDB-develop.git
+[submodule "deps/MolecularMove"]
+	path = deps/MolecularMove
+	url = https://github.com/UMOL/MolecularMove-develop.git
+[submodule "deps/MolecularBuild"]
+	path = deps/MolecularBuild
+	url = https://github.com/UMOL/MolecularBuild-develop.git
+[submodule "deps/MolecularGeometry"]
+	path = deps/MolecularGeometry
+	url = https://github.com/UMOL/MolecularGeometry-develop.git
+[submodule "deps/MolecularDataType"]
+	path = deps/MolecularDataType
+	url = https://github.com/UMOL/MolecularDataType-develop.git

@@ -1,15 +1,15 @@
 if !isdefined(:MolecularPDB)
-    include(joinpath("..","pkg","MolecularPDB","src","MolecularPDB.jl"))
+    include(joinpath("MolecularPDB","src","MolecularPDB.jl"))
 end
 
 if !isdefined(:MolecularDataType)
-    include(joinpath("..","pkg","MolecularDataType","src","MolecularDataType.jl"))
+    include(joinpath("MolecularDataType","src","MolecularDataType.jl"))
 end
 
 if !isdefined(:MolecularMove)
-    include(joinpath("..","pkg","MolecularMove","src","MolecularMove.jl"))
+    include(joinpath("MolecularMove","src","MolecularMove.jl"))
 end
 
 if !isdefined(:MolecularBuild)
-    include(joinpath("..","pkg","MolecularBuild","src","MolecularBuild.jl"))
+    include(joinpath("MolecularBuild","src","MolecularBuild.jl"))
 end
