@@ -1,4 +1,6 @@
+![uMOL](logo/umol-logo.png)
 # uMOL
+
 ## Micro(mu) MOLECULAR OPERATION LANGUAGE
 "uMOL" is a package that provides basic tools
 for manipulating molecules.
