@@ -4,116 +4,76 @@
 		"selected_items":
 		[
 			[
-				"pdb",
-				"pdb_file"
+				"re",
+				"return"
+			],
+			[
+				"tmp",
+				"tmp_dir"
+			],
+			[
+				"data",
+				"data_dir"
+			],
+			[
+				"outpu",
+				"output_file"
 			],
 			[
 				"pd",
-				"pdb_file"
+				"pdb_style"
 			],
 			[
-				"Mo",
-				"MolecularSystem"
+				"cha",
+				"chain_count"
 			],
 			[
-				"coo",
-				"coordinate_template"
+				"new",
+				"new_property_dict"
 			],
 			[
-				"mu",
-				"mutate_all_coordinates"
+				"new_p",
+				"new_property_dict"
+			],
+			[
+				"pro",
+				"property_tuple"
+			],
+			[
+				"test",
+				"test_mutate_coordinate"
 			],
 			[
 				"Ab",
 				"AbstractMolecularContainer"
 			],
 			[
-				"Abstract",
-				"AbstractMolecularContainer"
+				"num",
+				"number_of_coordinates"
 			],
 			[
-				"Mol",
-				"MolecularMove"
+				"coord",
+				"coordinates"
 			],
 			[
-				"gri",
-				"grid_1D"
+				"n",
+				"number_of_coordinates"
 			],
 			[
 				"Mole",
 				"MolecularDataType"
 			],
 			[
-				"residue_",
-				"residue_name"
-			],
-			[
-				"res",
-				"residue_name"
-			],
-			[
-				"atom",
-				"atom_name"
-			],
-			[
 				"residue",
-				"residue_name"
+				"residue_id"
 			],
 			[
-				"seg",
-				"segments"
-			],
-			[
-				"make",
-				"make_molecular_system"
-			],
-			[
-				"pri",
-				"println"
-			],
-			[
-				"in",
-				"identifier_tuple"
-			],
-			[
-				"prin",
-				"print_w_color"
-			],
-			[
-				"pr",
-				"print_w_color"
-			],
-			[
-				"Abs",
-				"AbstractMolecularContainer"
-			],
-			[
-				"test",
-				"test_translate_field_name"
-			],
-			[
-				"fiel",
-				"field_name_dict"
-			],
-			[
-				"fie",
-				"field_name_dict"
-			],
-			[
-				"i",
-				"identifier_tuple"
-			],
-			[
-				"Abstrac",
-				"AbstractFloat"
+				"oupt",
+				"output_data_type"
 			],
 			[
 				"Fu",
 				"FullMolecularContainer"
-			],
-			[
-				"new",
-				"new_coordinate"
 			],
 			[
 				"whih",
@@ -128,8 +88,8 @@
 				"identity"
 			],
 			[
-				"pro",
-				"property_array"
+				"res",
+				"residue"
 			],
 			[
 				"inc",
@@ -156,6 +116,14 @@
 				"assorted_atom_dict"
 			],
 			[
+				"i",
+				"identifier_fields"
+			],
+			[
+				"Abs",
+				"AbstractString"
+			],
+			[
 				"inpu",
 				"input_data_type"
 			],
@@ -174,6 +142,10 @@
 			[
 				"coor",
 				"coordinate"
+			],
+			[
+				"Abstract",
+				"AbstractString"
 			],
 			[
 				"field",
@@ -208,6 +180,10 @@
 				"dimension_count"
 			],
 			[
+				"coo",
+				"coordinate_sample"
+			],
+			[
 				"al",
 				"alt_location"
 			],
@@ -218,6 +194,10 @@
 			[
 				"mak",
 				"make_molecular_system"
+			],
+			[
+				"make",
+				"make_topological_chain"
 			],
 			[
 				"TopologicMOle",
@@ -240,6 +220,10 @@
 				"count_members"
 			],
 			[
+				"atom",
+				"atom_count"
+			],
+			[
 				"at",
 				"atom_count"
 			],
@@ -248,8 +232,8 @@
 				"make_topologic_residue"
 			],
 			[
-				"data",
-				"data_type"
+				"Mol",
+				"MolecularDataType"
 			],
 			[
 				"all",
@@ -262,10 +246,6 @@
 			[
 				"se",
 				"segment_count"
-			],
-			[
-				"re",
-				"residue_count"
 			],
 			[
 				"sys",
@@ -294,6 +274,10 @@
 			[
 				"syste",
 				"system_name"
+			],
+			[
+				"seg",
+				"segment_name"
 			],
 			[
 				"dic",
@@ -348,10 +332,6 @@
 				"raw_atom_name_expr"
 			],
 			[
-				"tmp",
-				"tmp_answer"
-			],
-			[
 				"tm",
 				"tmp_key"
 			],
@@ -396,10 +376,6 @@
 				"num_remind"
 			],
 			[
-				"num",
-				"num_remind"
-			],
-			[
 				"remin",
 				"reminders"
 			]
@@ -407,69 +383,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/I/DEVELOP/umol/julia/uMOL/src/uMOL.jl",
-			"settings":
-			{
-				"buffer_size": 202,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/I/DEVELOP/umol/julia/uMOL/dep/dep.jl",
-			"settings":
-			{
-				"buffer_size": 451,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/I/DEVELOP/umol/julia/uMOL/test/MolecularBuild/runtests.jl",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/I/DEVELOP/umol/julia/uMOL/test/MolecularBuild/test_build_lipid_grid.jl",
-			"settings":
-			{
-				"buffer_size": 311,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/I/DEVELOP/umol/julia/uMOL/pkg/MolecularIO/src/MolecularIO.jl",
-			"settings":
-			{
-				"buffer_size": 163,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/I/DEVELOP/umol/julia/uMOL/pkg/MolecularIO/dep/dep.jl",
-			"settings":
-			{
-				"buffer_size": 105,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/I/DEVELOP/umol/julia/uMOL/test/runtests.jl",
-			"settings":
-			{
-				"buffer_size": 56,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -508,142 +421,153 @@
 	},
 	"expanded_folders":
 	[
-		"/I/DEVELOP/umol/julia/uMOL",
-		"/I/DEVELOP/umol/julia/uMOL/data",
-		"/I/DEVELOP/umol/julia/uMOL/src",
-		"/I/DEVELOP/umol/julia/uMOL/test",
-		"/I/DEVELOP/umol/julia/uMOL/test/MolecularBuild"
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/data",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/data/lipid",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/src",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/RCSB",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/VMD",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/format_ATOM",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/src",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild"
 	],
 	"file_history":
 	[
-		"/I/DEVELOP/umol/julia/uMOL/.gitignore",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/function/grid/grid_nD.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/test/grid/test_grid_nD.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/test/grid/unit_test_1_grid_1D.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/test/grid/unit_test_1_grid_nD.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/function/grid/grid_1D.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/MolecularBuild.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/function/grid/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/test/grid/test_grid_1D.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/test/grid/runtests.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/type/Grid/Grid.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/type/Grid/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/REQUIRE",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/grid/grid_1D.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/type/Grid/Grid1D.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainerIterator/comparison.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainerIterator/start.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainerIterator/next.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainerIterator/done.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainerIterator/obtain.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainerIterator/eltype.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainerIterator/length.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/data/atom/one.pdb",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/REQUIRE",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/test/runtests.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/MolecularDataType.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/grid/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/line/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularBuild/src/line/grid_1D.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularPDB/src/MolecularPDB.jl",
-		"/I/BOOKS/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/CrystalSymmetry/constructor_0.jl",
-		"/I/MEETING/group_meeting/literature/2016-03-23/sections/title.md",
-		"/I/MEETING/group_meeting/literature/2016-03-23/sections/K-type_allostery.md",
-		"/I/DEVELOP/umol/julia/github/MolecularDataType-develop/README.md",
-		"/I/MEETING/group_meeting/literature/2016-03-23/index.html",
-		"/I/DEVELOP/umol/julia/github/MolecularDataType-develop/.gitignore",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/tmp/new.pdb",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/format_ATOM/test_format_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/format_residue_name.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/test_format_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/format_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/format_ATOM/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/format_ATOM/unit_test_2_format_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/test_format_residue_name.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/data/VMD/4_letter_residue_name_VMD.pdb",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/data/lipid/popc.pdb",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/format_ATOM/unit_test_1_format_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD/unit_test_2_read_VMD.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD/unit_test_1_read_VMD.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/test_format_atom_name.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD/unit_test_2_save_VMD.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD/unit_test_1_save_VMD.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/save_pdb.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD/test_read_VMD.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/format_atom_name.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD/test_save_VMD.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/test_parse_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/parse_ATOM/test_parse_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/parse_ATOM/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/params.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/unit_test_1_parse_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/unit_test_2_parse_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/unit_test_3_parse_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/.gitignore",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/test_dir.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild/test_build_lipid_grid.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/parse_ATOM.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/create_atoms.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/RCSB/read_RCSB.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/VMD/read_VMD.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/test_create_atoms.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/test_dir.jl",
+		"/i/DEVELOP/umol/julia/uMOL/pkg/MolecularPDB/sublime/umol-pdb.sublime-",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/src/CrystalSymmetry/CrystalSymmetry.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/MolecularMove.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/src/uMOL.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/MolecularBuild.jl",
+		"/C/Users/steven/.juliarc.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild/runtests.jl",
+		"/I/DEVELOP/umol/.git/modules/julia/develop/uMOL-develop/config",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/README.md",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/README.md",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/deps.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/REQUIRE",
+		"/I/DEVELOP/umol/julia/README.md",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/oCat/README.md",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/.gitmodules",
+		"/I/DEVELOP/umol/julia/develop/.gitignore",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/TopologicMolecularSystem/unit_tests_obtain_crystal_symmetry.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/TopologicMolecularSystem/unit_tests_obtain.jl",
+		"/I/DEVELOP/umol/julia/github/MolecularPDB-develop/REQUIRE",
+		"/I/DEVELOP/umol/julia/github/MolecularPDB-develop/src/MolecularPDB.jl",
+		"/I/DEVELOP/umol/julia/github/MolecularPDB-develop/.travis.yml",
+		"/I/DEVELOP/umol/julia/github/MolecularDataType-develop/src/MolecularDataType.jl",
+		"/I/DEVELOP/umol/julia/github/MolecularDataType-develop/test/runtests.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/CrystalSymmetry/obtain.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/CrystalSymmetry/CrystalSymmetry.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/CrystalSymmetry/constructor_0.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/CrystalSymmetry/unit_tests_obtain.jl",
+		"/I/BOOKS/+/1_READ_Programming/Data_Science/Artifical_Intelligence/Heaton_AI_series/readme.txt",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/AbstractMolecularContainer/one_clone.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/AbstractMolecularContainer/test_one_clone.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/AbstractMolecularContainer/runtests.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/AbstractMolecularContainer/unit_test_0_one_clone.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/AbstractMolecularContainer/AbstractMolecularContainer.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularDataType.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/AbstractMolecularContainer/one_clone.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/AbstractMolecularContainer/unit_test_1_one_clone_new_coordinates.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/AbstractMolecularContainer/test_one_clone.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/AbstractMolecularContainer/properties.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/FullMolecularContainer/mutate_all_coordinates.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainer/transform_all_coordinates.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/mutate/test_mutate_all_coordinates.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/mutate/mutate.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/make/all.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/toolkit/mutate/test_mutate_all_coordinates.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/FullMolecularContainer/mutate_coordinate.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/mutate/runtests.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/all.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/make/make_atom.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/obtain.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/Atom.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/constructor_0.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/toolkit/mutate/test_mutate_coordinate.jl",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/extract/test_extract_coordinate_Atom.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/extract/test_extract_topology_Atom.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/prepare/make_atom.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_topologic_atom.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/toolkit/mutate/runtests.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/FullMolecularContainer/FullMolecularContainer.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainer/mutate_all_coordinates.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/assort/all.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/catalog/all.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/coordinate/all.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/hierarchy/all.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/identifier/all.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/move/all.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/mutate/all.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/synthesize/all.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/extract/all.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_topologic_segment.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/test_synthesize.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_topologic_chain.jl",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_5_synthesize.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/assort/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/assort/unit_tests_multiassort_Atom.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/catalog/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/catalog/test_multicatalog_Atom.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/catalog/unit_tests_multicatalog_Atom.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/toolkit/extract/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/catalog/test_catalog_Atom.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/catalog/unit_tests_catalog_Atom.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/assort/test_multiassort_Atom.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/synthesize/synthesize.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/constructor_1.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/constructor_0.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicMolecularSystem/constructor_1.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_4_synthesize.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicChain/constructor_1.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Chain/constructor_1.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicSegment/constructor_1.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_3_synthesize.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_residue.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_topologic_residue.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicResidue/constructor_1.jl",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_2_synthesize.jl",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_1_synthesize.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/identifier/molecular_identifier_fields.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/identifier/test_molecular_identifier_fields.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/assort/unit_test_1_multiassort.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/move/test_move.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/move/unit_test_1_move.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_3_synthesize.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_4_synthesize.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/prepare/make_topologic_atom.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/prepare.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/FullMolecularContainerIterator/unit_test_iterator.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/identifier/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/MolecularSystem/unit_test_mutate_coordinate.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/FullMolecularContainerIterator/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/FullMolecularContainerIterator/unit_test_constructor_0.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/FullMolecularContainerIterator/unit_test_obtain_data_type.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/FullMolecularContainerIterator/unit_test_obtain_total_count.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/FullMolecularContainerIterator/unit_test_obtain_count_tree.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/FullMolecularContainerIterator/unit_test_obtain_molecule.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/MolecularSystem/unit_test_batch_clone_with_new_residue_id.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/template/test_clone.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/MolecularSystem/unit_test_1_fuse.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/fuse.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/MolecularSystem/unit_test_clone_with_new_residue_id.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/clone_transformation_functions.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/constructor_2.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Residue/Residue.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/MolecularSystem/test_constructor_2.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/AbstractMolecularContainer/properties.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/MolecularSystem/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/synthesize/synthesize.jl",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Segment/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Chain/Chain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/Chain/unit_tests_obtain_basics.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Segment/Segment.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/Segment/unit_tests_obtain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/Residue/unit_tests_obtain_Residue.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/MolecularSystem.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/obtain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/TopologicSegment/unit_tests_obtain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/MolecularSystem/unit_tests_obtain_MolecularSystem.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/MolecularSystem/unit_test_1_constructor_2.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_molecular_system.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/constructor_0.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Residue/obtain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Chain/constructor_0.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Chain/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_chain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Segment/constructor_0.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_segment.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/constructor_0.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Residue/constructor_0.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_residue.jl",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Residue/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/Atom/unit_tests_obtain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/FullMolecularContainer/obtain_member_using_tuple_index.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/Atom.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/obtain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/MolecularSystem/unit_test_obtain_atom_iterator.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/MolecularSystem/unit_tests_obtain_atom_by_index.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/Residue/unit_tests_comparison.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicMolecularSystem/obtain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/TopologicMolecularSystem/unit_tests_obtain_identifier.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/TopologicMolecularSystem/unit_tests_obtain_identifier_using_tuple_index.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicAtom/obtain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/TopologicMolecularSystem/unit_tests_properties.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/TopologicMolecularSystem/unit_test_1_member_count_tree.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/all.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/Atom/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/FullMolecularContainer/FullMolecularContainer.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/catalog/unit_test_1_multicatalog.jl"
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/identifier/molecular_identifier_dict.jl",
+		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/MolecularSystem/clone_transformation_functions.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/batch_clone.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/MolecularSystem.jl",
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/clone.jl"
 	],
 	"find":
 	{
@@ -662,134 +586,134 @@
 		"case_sensitive": true,
 		"find_history":
 		[
-			"MolecularMove",
-			"MolecularDataType",
-			"MolecularPDB",
-			"MolecularIO",
-			"MolecularSystem",
-			"grid_1D",
-			"1D",
-			"Integer",
-			"AbstractFloat",
-			"Integer",
-			"count",
-			"spacing",
-			"direction",
-			"Integer",
-			"AbstractFloat",
-			"Integer",
-			"AbstractFloat",
-			"count",
-			"spacing",
-			"direction",
-			"mutate_all_coordinates",
-			"grid_1D",
-			"AbstractMolecularSystem",
+			"rcsb",
+			"joinpath",
+			"pdb_file",
+			"Symbol",
+			"\"..\",\"pkg\",",
+			"=",
+			"angles",
+			"WARNING",
+			"coordiante",
+			"new_properties",
+			"update",
+			"property_tuple",
+			"make_residue",
+			"new_coordinate",
 			"AbstractMolecularContainer",
-			"translate_point",
-			"make_molecular_system",
-			"MolecularDataType",
-			"unbind",
-			"bind",
-			"make_topologic_atom",
-			"make_atom",
-			"TopologicAtom",
-			"Atom",
-			"TopologicAtom",
-			"system_",
-			"chain_",
-			"str",
-			"chain__str",
-			"chain_str",
-			"members",
-			"Residue",
-			"Atom",
+			"new_coordinate",
+			"multiassort",
+			"multicatalog",
+			"get_coordinate_info",
+			"higher_full_molecular_container",
+			"molecular_identifier_fields",
+			"move",
+			"mutate",
+			"synthesize",
+			"name",
+			"segments",
+			"residues",
+			"atoms",
+			"TopologicResidue(name",
+			"TopologicSegment(name",
+			"TopologicChain(name",
 			"chains",
-			"make_topologic_segments",
-			"Atom",
-			"members",
+			"MolecularSystem(name",
+			"name",
+			"MolecularSystem(name",
+			"name",
+			"chains",
+			"Chain(nam",
+			"name",
+			"Chain(name",
+			"name",
+			"segments",
+			"name",
+			"iresidue_d",
+			"residues",
+			"Segment(name",
+			"name",
+			"residue",
+			"residue_id",
+			"name",
+			"id",
+			"name",
+			"id",
+			"name",
+			"atoms",
+			"Residue(name",
+			" Residue(name",
+			"name",
+			"id",
+			"name",
+			"id",
+			"name",
+			"atoms",
+			"6",
+			"2",
+			"1",
+			"2",
+			"MolecularSystem",
+			"merge",
+			"test_merge",
+			"merge",
+			"fn_resdiue_id",
+			"fn_residue_id",
+			"fn_identity",
+			"array",
+			"chains",
+			"BasicMolecularContainer",
+			"chains",
+			"segments",
 			"TopologicAtom",
-			"atom_type",
-			"atom_name",
-			"members",
+			"SEG1",
+			"TopologicSegment",
+			"RES1",
 			"TopologicResidue",
-			"segment",
+			"residues",
+			"name",
+			"TopologicAtom",
+			"TopologicResidue",
+			"members=[TopologicResidue",
+			"TopologicAtom",
+			"TopologicResidue",
+			"A",
+			"TopologicAtom",
+			"atoms",
+			"TopologicAtom",
+			"include_member",
+			"fn_identifier",
+			"BasicMolecularContainer",
+			"FullMolecularContainer",
+			"\"\"\"",
+			"new_identifier",
+			"TopologicSegment",
+			"coordinates",
+			"segments",
+			"Chain",
 			"chain",
-			"TopologicSegment",
-			"members",
-			"TopologicChain",
-			"members",
-			"system",
-			"MolecularSystem",
-			"system",
-			"MolecularSystem",
-			"TopologicChain",
-			"members",
+			"segments",
 			"Chain",
-			"members",
-			"make_segment",
-			"segment",
-			"TopologicSegment",
-			"Chain(",
-			"Chain",
-			"ake_segment(segment",
 			"Segment",
-			"egment(",
+			"R1",
 			"Segment",
-			"Segment(segment",
-			"segment",
+			"residues",
+			"chain",
 			"TopologicResidue",
-			"residue_id",
-			"residue",
-			"TopologicAtom(nam",
-			"members",
+			"C2",
+			"C1",
+			"segment",
+			"residues",
+			"Segment",
 			"Residue",
-			"system",
-			"chain",
-			"segment",
-			"residue",
-			"Atom(name",
-			"TopologicAtom(name",
-			"system",
-			"chain",
-			"segment",
-			"residue",
-			"name",
-			"system",
-			"chain",
-			"segment",
-			"residue",
-			"atom_id",
-			"residue_id",
-			"TopologicAtom(name",
-			"TopologicAtom(nam",
-			"TopologicAtom(name",
-			"getfield",
-			"field",
-			"system",
-			"name",
-			"segement_name",
-			"system",
-			"chain",
-			"name",
-			"system",
-			"chain",
-			"segment",
-			"name",
-			"id",
-			"atom_id",
-			"residue",
-			"id",
-			"system",
-			"chain",
-			"segment",
-			"TopologicAtom(name",
-			"=\"A1\"), TopologicAtom(name=\"A2\")])\n                ])",
-			"TopologicAtom(name",
-			"system",
-			"members",
-			"system",
-			"chain"
+			"TopologicAtom",
+			"atoms",
+			"TopologicAtom",
+			"Residue",
+			"Atom",
+			"\",\n",
+			"TopologicResidue",
+			"test_atoms_to_topologic_residues"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -797,6 +721,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"-",
 			"\\IF\\s",
 			"    "
 		],
@@ -809,233 +734,8 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/I/DEVELOP/umol/julia/uMOL/src/uMOL.jl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 202,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								202,
-								202
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Julia/Julia.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/I/DEVELOP/umol/julia/uMOL/dep/dep.jl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 451,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								337,
-								337
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Julia/Julia.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/I/DEVELOP/umol/julia/uMOL/test/MolecularBuild/runtests.jl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Julia/Julia.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/I/DEVELOP/umol/julia/uMOL/test/MolecularBuild/test_build_lipid_grid.jl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 311,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								311,
-								311
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Julia/Julia.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/I/DEVELOP/umol/julia/uMOL/pkg/MolecularIO/src/MolecularIO.jl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 163,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								43,
-								43
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Julia/Julia.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/I/DEVELOP/umol/julia/uMOL/pkg/MolecularIO/dep/dep.jl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 105,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								104,
-								104
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Julia/Julia.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"default_dir": "I:\\DEVELOP\\umol\\julia\\uMOL\\pkg\\MolecularIO\\dep",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/I/DEVELOP/umol/julia/uMOL/test/runtests.jl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 56,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								56,
-								56
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Julia/Julia.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1078,7 +778,7 @@
 	"project": "umol.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 80.0
 	},
 	"save_all_on_build": true,
 	"select_file":

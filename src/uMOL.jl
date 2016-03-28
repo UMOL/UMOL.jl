@@ -1,6 +1,6 @@
 __precompile__()
 
-include(joinpath("..","deps","deps.jl"))
+# include(joinpath("..","deps","deps.jl"))
 
 """
 ``uMOL``: Micro-Molecular Operation Language
