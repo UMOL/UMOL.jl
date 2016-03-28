@@ -5,6 +5,7 @@ M.LA_SETUP = {SHOW_HEADER = false }
 function M:t()
     return la.shell(
         "julia",
+        "--color=yes",
         la.path("test", 'runtests.jl'))
 end
 
