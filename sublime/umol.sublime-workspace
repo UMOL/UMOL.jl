@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"grid",
+				"grid_style"
+			],
+			[
+				"gri",
+				"grid_style"
+			],
+			[
+				"Ab",
+				"AbstractFloat"
+			],
+			[
 				"re",
 				"return"
 			],
@@ -42,10 +54,6 @@
 			[
 				"test",
 				"test_mutate_coordinate"
-			],
-			[
-				"Ab",
-				"AbstractMolecularContainer"
 			],
 			[
 				"num",
@@ -425,21 +433,41 @@
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/data",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/data/lipid",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/src",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/RCSB",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/VMD",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/format_ATOM",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/type",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/test",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/test/grid",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/src",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/src/MolecularSystem",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/test",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/test/MolecularSystem",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/src",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild"
 	],
 	"file_history":
 	[
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/MolecularMove.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/README.md",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild/test_build_lipid_grid.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid/grid_nD_kwargs.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild/unit_test_2_build_lipid_grid.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild/unit_test_3_build_lipid_grid.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/src/MolecularSystem/fuse.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/test/MolecularSystem/test_fuse.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/test/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid/all.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild/unit_test_1_build_lipid_grid.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/la_auto.lua",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/.gitignore",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid/grid_1D_kwargs.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid/grid_1D.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid/grid_nD.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/tmp/new.pdb",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/format_ATOM/test_format_ATOM.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/format_residue_name.jl",
@@ -470,18 +498,15 @@
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/unit_test_3_parse_ATOM.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/.gitignore",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/test_dir.jl",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild/test_build_lipid_grid.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/parse_ATOM.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/create_atoms.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/RCSB/read_RCSB.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/VMD/read_VMD.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/runtests.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/test_create_atoms.jl",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/runtests.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/test_dir.jl",
 		"/i/DEVELOP/umol/julia/uMOL/pkg/MolecularPDB/sublime/umol-pdb.sublime-",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/src/CrystalSymmetry/CrystalSymmetry.jl",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/MolecularMove.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/src/uMOL.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/MolecularBuild.jl",
 		"/C/Users/steven/.juliarc.jl",
@@ -553,21 +578,7 @@
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicMolecularSystem/constructor_1.jl",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_4_synthesize.jl",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicChain/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Chain/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicSegment/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_3_synthesize.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_residue.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_topologic_residue.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicResidue/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_2_synthesize.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_1_synthesize.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Segment/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Residue/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/identifier/molecular_identifier_dict.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/MolecularSystem/clone_transformation_functions.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/batch_clone.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/MolecularSystem.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/clone.jl"
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Chain/constructor_1.jl"
 	],
 	"find":
 	{
@@ -586,6 +597,11 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Grid1D",
+			"new_lipid",
+			"lipid",
+			"MolecularBuild",
+			"MolecularPDB",
 			"rcsb",
 			"joinpath",
 			"pdb_file",
@@ -708,12 +724,7 @@
 			"Residue",
 			"TopologicAtom",
 			"atoms",
-			"TopologicAtom",
-			"Residue",
-			"Atom",
-			"\",\n",
-			"TopologicResidue",
-			"test_atoms_to_topologic_residues"
+			"TopologicAtom"
 		],
 		"highlight": true,
 		"in_selection": false,
