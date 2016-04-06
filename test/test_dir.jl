@@ -8,9 +8,9 @@ dir:Symbol
 """
 function test_dir(dir::Symbol) 
     if dir == :data
-        return joinpath("data")
+        return joinpath(pwd(),"..","data")
     elseif dir == :tmp
-        return joinpath("tmp")
+        return joinpath(pwd(),"..","tmp")
     else
         return ""
     end

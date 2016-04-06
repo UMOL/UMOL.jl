@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"array",
+				"array_size"
+			],
+			[
+				"obj",
+				"object_array"
+			],
+			[
+				"ar",
+				"array_1"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
 				"grid",
 				"grid_style"
 			],
@@ -391,6 +407,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/I/MANUSCRIPT/betpx/2016/data/figs/density_map/density_map.tex",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -430,27 +454,48 @@
 	"expanded_folders":
 	[
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/data",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/data/lipid",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/type",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/test",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/test/grid",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/src",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/src/MolecularSystem",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/test",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/test/MolecularSystem",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/src",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild"
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test"
 	],
 	"file_history":
 	[
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/geometric_center/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/distance/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/distance/unit_test_3_gage_min_distance.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/distance/unit_test_2_gage_min_distance.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/distance/unit_test_1_gage_min_distance.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/src/MolecularGeometry.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/src/type/abstract/MinDistance.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/test_dir.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/src/function/distance/gage_min_distance.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/src/function/distance/all.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/src/function/all.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/distance/test_gage_min_distance.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid/randomize.jl",
+		"/I/MANUSCRIPT/betpx/2016/data/figs/density_map/density_map.tex",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/la_auto.lua",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/la_auto.lua",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/.gitignore",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD/test_save_VMD.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/RCSB/test_save_RCSB.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/test_create_crystal_symmetry.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/params.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/.travis.yml",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/README.md",
+		"/C/Users/steven/.julia/v0.4/MolecularDataType/src/CrystalSymmetry/CrystalSymmetry.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/tmp/README.md",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/REQUIRE",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/REQUIRE",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/src/type/all.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/src/type/abstract/all.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/deps.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/MolecularMove.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/README.md",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild/test_build_lipid_grid.jl",
@@ -462,7 +507,6 @@
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/test/runtests.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid/all.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/MolecularBuild/unit_test_1_build_lipid_grid.jl",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/la_auto.lua",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/.gitignore",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid/grid_1D_kwargs.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/runtests.jl",
@@ -488,15 +532,12 @@
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/save_pdb.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD/test_read_VMD.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/format_atom_name.jl",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/VMD/test_save_VMD.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/test_parse_ATOM.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/parse_ATOM/test_parse_ATOM.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/parse_ATOM/runtests.jl",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/params.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/unit_test_1_parse_ATOM.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/unit_test_2_parse_ATOM.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/unit_test_3_parse_ATOM.jl",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/.gitignore",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/test_dir.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/parse_ATOM.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/common/create_atoms.jl",
@@ -504,7 +545,6 @@
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/src/function/VMD/read_VMD.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/runtests.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test/function/common/test_create_atoms.jl",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test/test_dir.jl",
 		"/i/DEVELOP/umol/julia/uMOL/pkg/MolecularPDB/sublime/umol-pdb.sublime-",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularDataType/src/CrystalSymmetry/CrystalSymmetry.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/src/uMOL.jl",
@@ -514,7 +554,6 @@
 		"/I/DEVELOP/umol/.git/modules/julia/develop/uMOL-develop/config",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/README.md",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/README.md",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/deps.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/REQUIRE",
 		"/I/DEVELOP/umol/julia/README.md",
 		"/I/DEVELOP/umol/julia/uMOL/pkg/oCat/README.md",
@@ -552,33 +591,7 @@
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/all.jl",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/make/make_atom.jl",
 		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/obtain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/Atom.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/constructor_0.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/toolkit/mutate/test_mutate_coordinate.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/runtests.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/toolkit/mutate/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/FullMolecularContainer/FullMolecularContainer.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainer/mutate_all_coordinates.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/assort/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/catalog/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/coordinate/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/hierarchy/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/identifier/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/move/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/mutate/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/synthesize/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/toolkit/extract/all.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_topologic_segment.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/test_synthesize.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/prepare/make_topologic_chain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_5_synthesize.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/synthesize/synthesize.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/MolecularSystem/constructor_0.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicMolecularSystem/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/synthesize/unit_test_4_synthesize.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/TopologicChain/constructor_1.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Chain/constructor_1.jl"
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/Atom.jl"
 	],
 	"find":
 	{
@@ -597,6 +610,11 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Integer",
+			"Array",
+			"geometric_center",
+			"function",
+			"geometric_center",
 			"Grid1D",
 			"new_lipid",
 			"lipid",
@@ -719,12 +737,7 @@
 			"C2",
 			"C1",
 			"segment",
-			"residues",
-			"Segment",
-			"Residue",
-			"TopologicAtom",
-			"atoms",
-			"TopologicAtom"
+			"residues"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -745,8 +758,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/I/MANUSCRIPT/betpx/2016/data/figs/density_map/density_map.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
