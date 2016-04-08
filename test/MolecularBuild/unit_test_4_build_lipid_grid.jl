@@ -4,7 +4,7 @@ test_build_lipid_grid(
     MolecularPDB.VMD,
     Grid,
     Array[[1., 0., 0],[0., 1., 0], [0., 0., 1.]],
-    (10., 10., 40.),
-    (2, 2, 2),
+    (5., 5., 20.),
+    (20, 20, 10),
     "3D grid"
     )

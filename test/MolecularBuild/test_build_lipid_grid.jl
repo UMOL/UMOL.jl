@@ -46,6 +46,7 @@ function test_build_lipid_grid(input_file::AbstractString,
     return true
 end
 
-include("unit_test_1_build_lipid_grid.jl")
-include("unit_test_2_build_lipid_grid.jl")
-include("unit_test_3_build_lipid_grid.jl")
+# include("unit_test_1_build_lipid_grid.jl")
+# include("unit_test_2_build_lipid_grid.jl")
+# include("unit_test_3_build_lipid_grid.jl")
+include("unit_test_4_build_lipid_grid.jl")
