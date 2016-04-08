@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Ecu",
+				"Euclidean3D"
+			],
+			[
 				"array",
 				"array_size"
 			],
@@ -408,10 +412,34 @@
 	"buffers":
 	[
 		{
-			"file": "/I/MANUSCRIPT/betpx/2016/data/figs/density_map/density_map.tex",
+			"file": "/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/MolecularMove.jl",
 			"settings":
 			{
-				"buffer_size": 304,
+				"buffer_size": 704,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/function/rotate/rotate_RandomEuclidean3D.jl",
+			"settings":
+			{
+				"buffer_size": 717,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/function/rotate/test_rotate_RandomEuclidean3D.jl",
+			"settings":
+			{
+				"buffer_size": 1457,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/function/rotate/test_rotate_Euclidean3D.jl",
+			"settings":
+			{
+				"buffer_size": 1306,
 				"line_ending": "Windows"
 			}
 		}
@@ -455,15 +483,33 @@
 	[
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function",
-		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/function",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/function/rotate",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/function",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/function/rotate",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/test",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/src",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/test"
 	],
 	"file_history":
 	[
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/function/rotate/rotate_RandomEuclidean3D.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/function/rotate/test_rotate_Euclidean3D.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/function/rotate/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/function/rotate/test_rotate_RandomEuclidean3D.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/params.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/runtests.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/test_dir.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/type/Euclidean/Euclidean2D.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/function/rotate/all.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid/randomize_orientation.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/type/Euclidean/RandomEuclidean3D.jl",
+		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/type/Euclidean/all.jl",
+		"/I/MANUSCRIPT/betpx/2016/data/figs/density_map/density_map.tex",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/geometric_center/runtests.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/distance/runtests.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/distance/unit_test_3_gage_min_distance.jl",
@@ -478,7 +524,6 @@
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/runtests.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularGeometry/test/function/distance/test_gage_min_distance.jl",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularBuild/src/function/grid/randomize.jl",
-		"/I/MANUSCRIPT/betpx/2016/data/figs/density_map/density_map.tex",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/la_auto.lua",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/la_auto.lua",
 		"/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularPDB/.gitignore",
@@ -579,19 +624,7 @@
 		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/AbstractMolecularContainer/one_clone.jl",
 		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/AbstractMolecularContainer/unit_test_1_one_clone_new_coordinates.jl",
 		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/AbstractMolecularContainer/test_one_clone.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/AbstractMolecularContainer/properties.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/FullMolecularContainer/mutate_all_coordinates.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/src/FullMolecularContainer/transform_all_coordinates.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/mutate/test_mutate_all_coordinates.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/mutate/mutate.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/make/all.jl",
-		"/I/DEVELOP/umol/julia/uMOL/pkg/MolecularDataType/test/toolkit/mutate/test_mutate_all_coordinates.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/FullMolecularContainer/mutate_coordinate.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/test/toolkit/mutate/runtests.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/all.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/toolkit/make/make_atom.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/obtain.jl",
-		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/Atom/Atom.jl"
+		"/I/DEVELOP/umol/julia/UMOL/pkg/MolecularDataType/src/AbstractMolecularContainer/properties.jl"
 	],
 	"find":
 	{
@@ -610,6 +643,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"rotate_3D_Euclidean",
+			"Euclidean3D",
+			"test_rotate_3D_Euclidean",
 			"Integer",
 			"Array",
 			"geometric_center",
@@ -734,10 +770,7 @@
 			"residues",
 			"chain",
 			"TopologicResidue",
-			"C2",
-			"C1",
-			"segment",
-			"residues"
+			"C2"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -758,29 +791,127 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/I/MANUSCRIPT/betpx/2016/data/figs/density_map/density_map.tex",
+					"file": "/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/MolecularMove.jl",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 304,
+						"buffer_size": 704,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								332,
+								332
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+							"syntax": "Packages/Julia/Julia.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/src/function/rotate/rotate_RandomEuclidean3D.jl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Julia/Julia.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/function/rotate/test_rotate_RandomEuclidean3D.jl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							],
+							[
+								962,
+								962
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Julia/Julia.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 81.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/I/DEVELOP/umol/julia/develop/uMOL-develop/deps/MolecularMove/test/function/rotate/test_rotate_Euclidean3D.jl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								533
+							],
+							[
+								931,
+								931
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Julia/Julia.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -869,7 +1000,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 282.0,
+	"side_bar_width": 298.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
