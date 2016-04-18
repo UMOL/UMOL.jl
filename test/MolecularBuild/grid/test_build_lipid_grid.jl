@@ -32,7 +32,7 @@ function test_build_lipid_grid(input_file::AbstractString,
     grid_style::DataType,
     direction::Array, spacing, count,
     msg::AbstractString="")
-    println("--------------------------------------")
+    print_dashed_line(80)
     print_with_color(:blue, "Test build lipid grids\n\n")
     if msg != ""
         print_with_color(:blue, "$msg\n\n")
@@ -42,7 +42,7 @@ function test_build_lipid_grid(input_file::AbstractString,
     save(pdb_style, output_file, PDB(molecular_system=new_system))
     
     print_with_color(:green, "VERIFIED! build lipid grid\n\n")
-    println("--------------------------------------")
+    print_dashed_line(80)
     return true
 end
 

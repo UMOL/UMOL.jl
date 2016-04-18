@@ -1,5 +1,6 @@
 using Base.Test
 include("test_dir.jl")
+include("print_dashed_line.jl")
 
 using MolecularDataType
 using MolecularMove

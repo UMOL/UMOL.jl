@@ -1,1 +1,2 @@
-include("test_build_lipid_grid.jl")
+# include(joinpath("grid", "runtests.jl"))
+include(joinpath("sphere", "runtests.jl"))
