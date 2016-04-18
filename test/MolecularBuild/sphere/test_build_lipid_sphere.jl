@@ -49,7 +49,7 @@ function test_build_lipid_sphere(input_file::AbstractString,
         print_with_color(:blue, "$msg\n\n")
     end
     system = obtain(MolecularPDB.read(pdb_style, input_file), :molecular_system)
-    new_system = fuse(MolecularSystem, build(sphere_style, system, count, radius; center=center, aligned=aligned, inverted=inverted))
+    @time new_system = fuse(MolecularSystem, build(sphere_style, system, count, radius; center=center, aligned=aligned, inverted=inverted))
     save(pdb_style, output_file, PDB(molecular_system=new_system))
     
     print_with_color(:green, "VERIFIED! build lipid sphere\n\n")
@@ -57,5 +57,5 @@ function test_build_lipid_sphere(input_file::AbstractString,
     return true
 end
 
-# include("unit_test_1_build_FibonacciSphere.jl")
+include("unit_test_1_build_FibonacciSphere.jl")
 include("unit_test_2_build_FibonacciSphere.jl")
