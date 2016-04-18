@@ -57,4 +57,5 @@ function test_build_lipid_sphere(input_file::AbstractString,
     return true
 end
 
-include("unit_test_1_build_FibonacciSphere.jl")
+# include("unit_test_1_build_FibonacciSphere.jl")
+include("unit_test_2_build_FibonacciSphere.jl")

@@ -5,5 +5,6 @@ test_build_lipid_sphere(
     FibonacciSphere,
     50.,
     100,
-    "1D grid"
+    "1D grid";
+    inverted=true
     )
