@@ -1,9 +1,9 @@
 test_build_lipid_sphere(
     joinpath(test_dir(:data),"lipid","popc.pdb"),
-    joinpath(test_dir(:tmp),"sphere_1.pdb"),
+    joinpath(test_dir(:tmp),"sphere_90A.pdb"),
     MolecularPDB.VMD,
     FibonacciSphere,
-    85.,
+    90.,
     800,
     "sphere";
     inverted=false
